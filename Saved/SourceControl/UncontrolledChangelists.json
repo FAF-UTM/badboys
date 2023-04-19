@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Sandbox/UE5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UP/U3TCQAJWN1KU3G3B3WDOGH.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PK/3W9AIDDUPNZOM4D1122DDK.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BS/XA4EM33V2MFKF62TUKFME3.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MK/T1BH5OC9OH8S7G4YLFAQUK.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BQ/7E1Z7W0M8GZ88B09MTDY6G.uasset",
+				"D:/Sandbox/UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZA/AHRNU6YDT6AF7968P3QZ9T.uasset"
+			]
+		}
+	]
+}
